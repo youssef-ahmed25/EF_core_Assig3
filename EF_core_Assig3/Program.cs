@@ -7,6 +7,7 @@ namespace EF_core_Assig3
     {
         static void Main(string[] args)
         {
+            //dataseeding
             using ITIDB context = new ITIDB();
             //Department dept = new Department()
             //{
